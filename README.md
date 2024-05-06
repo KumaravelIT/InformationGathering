@@ -1,5 +1,5 @@
-# InformationGathering
-Information Gathering Techiques
+# Experiment-02-InformationGathering
+
 
 # To perform information gathering techniques
 
